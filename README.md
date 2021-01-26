@@ -1,6 +1,6 @@
 # Internet User Classification (IUC) and K-Means Clustering
 
-This is material for a CDRC Course on Internet User Classification (IUC) and K-Means Clustering. It also contains a number of videos, hosted on YouTube. See https://data.cdrc.ac.uk/dataset/https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-iuc-and-k-means-clustering for a copy of the course material. 
+This is material for a CDRC Course on Internet User Classification (IUC) and K-Means Clustering. It also contains a number of videos, hosted on YouTube. See https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-iuc-and-k-means-clustering for a copy of the course material. 
 
 This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. 
 
