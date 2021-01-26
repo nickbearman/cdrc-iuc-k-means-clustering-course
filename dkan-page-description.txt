@@ -1,0 +1,25 @@
+DKAN / Data.cdrc.ac.uk Page Description on https://data.cdrc.ac.uk/dataset/
+
+Advanced GIS Methods Training: IUC and K-Means Clustering
+
+This course presents the Internet User Classification (IUC) and Retail Centre Typologies (RCT) datasets from the CDRC and the methods used to create them, K-means clustering. K-means clustering is used to create many different data sets, including the geodemographic classification, OAC. We will discuss the IUC and RCT datasets, how and why they were created, and what they can be used for. We will also discuss and show you how to use the K-means clustering method to create your own classification, using IUC as an example. 
+
+It is split into two parts, each with a video clip and a series of commands to work through:
+- Part 1: Internet User Classification (IUC)
+- Part 2: K-Means Clustering
+
+*You need some prior knowledge of R to get the most from this course. If you are new to R, we recommend you complete the [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) first.*
+
+After completing the material, you will:
+- Know what IUC is and what it can be used for
+- Be aware of how IUC was created
+- Understand some of its key strengths and weaknesses
+- Know how to use Internet User Classification (IUC) in RStudio
+- Know what K-means clustering is and what it can be used for
+- Be aware of how K-means clustering was used to create the IUC
+- Understand some of its key strengths and weaknesses
+- Know how to create your own custom clustering in RStudio
+
+To access the course, click on Download next to the 'Part 1: Internet User Classification (IUC) - Workbook' or 'Part 2: K-Means - Workbook' files below. It is recommended that you have the course material open in one window, and RStudio open in another window next to it, using either a big monitor, or two monitors. If you have any comments or feedback, please email us.  
+
+CDRC periodically run training course featuring the material in this course. Please sign up to our mailing list, check out our website https://www.cdrc.ac.uk or email <a href="mailto:info@cdrc.ac.uk">info@cdrc.ac.uk</a> for more details. 
